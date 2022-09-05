@@ -6,14 +6,14 @@
   
   @media (max-width: 576px) {
     img {
-      width: 50%;
+      width: 70%;
+    }
+  
+    div.main-content-body {
+      padding: 25px;
       display: block;
       margin-left: auto;
       margin-right: auto;
-    }
-  
-    body {
-      padding: 25px;
     }
   }
 
