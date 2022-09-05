@@ -14,14 +14,9 @@
   
     div.main-content-body {
       padding: 25px;
-    }
-
-    button { 
       display: block;
-      margin-left: auto;
-      margin-right: auto;
+      margin: 0 auto;
     }
-
   }
 
   h1 {
